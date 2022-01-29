@@ -1,15 +1,3 @@
-RESEARCH: 
--> Text generation models, their application and drawbacks 
-
--> Dataset used so far and untouched dataset that we could use
-
--> Different NLP conferences to understand the type of papers and deadlines of each
-
--> Creating a text generation model that focuses on named entity recognition such that a certain set of entities can be extracted from the input dataset
-         -> Thus it can be used for different applications eg. Technical paper title and abstract generation, news article title generation
-
--> Siginificance of named entitiy recognition and how it is encorporated in text generation so far
-
--> Github account creation and updating ✅
-
--> Understanding how to write papers using Latex ✅
+Stanza
+Builiding Language Model
+ENvironment and Requiremtns
