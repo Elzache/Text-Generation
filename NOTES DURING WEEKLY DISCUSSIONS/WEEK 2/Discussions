@@ -1,15 +1,22 @@
-Learning Stanza and how entity recognition works
-Requirements of building a language model from scratch
-Annotations that can be used
-Build our own language model
-Applications of Language models
-Validate a model
-Have environment ready
-Datasets used: defect database (bugs that are reported and keeping track of them)
+TO-DO LIST:
+
+-> Learning Stanza and how entity recognition works
+-> Annotations that can be used in NER
+
+-> Build our own language model
+      -> Requirements of building a language model from scratch
+      -> Applications of Language models
+      -> Validate a model
+      -> Have environment ready for model
+      -> How to generalize and adapt it onto different fields
+      -> How it takes care of real time vocabulary
+
+-> Datasets used: defect database (bugs that are reported and keeping track of them)
+
+
+OBJECTIVE: 
 Making language model that uses Defect database to outputs keywords based on searching for an error
 Making language models that recognizes synonyms, relationships between words, acronyms, short hands
 Defect database bugrepo master
-Hoe generalize it and adapt it
-How it takes care of real time vocabulary
 
 https://github.com/logpai/bugrepo
