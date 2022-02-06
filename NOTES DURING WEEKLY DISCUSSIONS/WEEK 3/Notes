@@ -1,0 +1,7 @@
+-> Read and make presentation about a language model
+-> Make sure every part of model is clear 
+       -> http://jalammar.github.io/illustrated-gpt2/
+       
+-> Code link:
+       -> https://huggingface.co/blog/how-to-generate
+       -> https://towardsdatascience.com/implementing-transformer-for-language-modeling-ba5dd60389a2
