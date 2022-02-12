@@ -5,4 +5,5 @@ Using context finding similar documents with same context (abstract categories)
 Language models in hugging face how they weork what they use
 key word extraction unsupervised, yake, deals with adaptable vocabulary
 
+focus on unsupervised
 https://github.com/LIAAD/yake
