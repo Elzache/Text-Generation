@@ -1,3 +1,7 @@
 Memory complexities how it has been used, on what kind of dataset they trained on (hugging face)
 Search Review paper on language models (sota)
 Using context finding similar documents with same context (abstract categories)
+
+key word extraction unsupervised, yake, deals with adaptable vocabulary
+
+https://github.com/LIAAD/yake
